@@ -238,7 +238,7 @@ See `.github/workflows/ci.yml` for details.
 
 ## Educational Use
 
-This simulation is designed for PHY313 (Classical Mechanics) and demonstrates:
+This simulation is designed for junior-level physics major classical mechanics classes and demonstrates:
 
 - **Normal mode decomposition** of coupled systems
 - **Eigenvalue problems** in classical mechanics
@@ -305,16 +305,16 @@ If you use this simulation in your research or teaching, please cite:
 ```bibtex
 @software{normal_modes_2025,
   title = {Normal Modes Visualization},
-  author = {Your Name},
+  author = {Robert Fisher},
   year = {2025},
-  url = {https://github.com/yourusername/normal-modes}
+  url = {https://github.com/rtfisher/normal-modes}
 }
 ```
 
 ## Acknowledgments
 
 - Physics model based on classical mechanics textbook treatment of coupled oscillators
-- Developed for PHY313 - Classical Mechanics
+- Developed for junior-level phyiscs major classical mechanics class
 - Visualization inspired by interactive physics demonstrations
 
 ## References
