@@ -1,12 +1,10 @@
 # Normal Modes Visualization
 
-[![CI](https://github.com/yourusername/normal-modes/workflows/CI/badge.svg)](https://github.com/yourusername/normal-modes/actions)
+[![CI](https://github.com/rtfisher/normal_modes/workflows/CI/badge.svg)](https://github.com/rtfisher/normal_modes/actions)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An interactive physics simulation that visualizes the normal modes of a 1D coupled oscillator system. This educational tool demonstrates classical mechanics concepts by animating N masses connected by springs between two fixed walls.
-
-![Normal Modes Animation](https://via.placeholder.com/800x200.png?text=Normal+Modes+Animation)
 
 ## Features
 
